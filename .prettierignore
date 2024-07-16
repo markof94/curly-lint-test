@@ -1,0 +1,9 @@
+/**/*.*
+!app/**/*.ts
+!app/**/*.tsx
+!app/**/*.js
+!app/**/*.jsx
+!pages/**/*.ts
+!pages/**/*.tsx
+!pages/**/*.js
+!pages/**/*.jsx
